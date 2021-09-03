@@ -11,10 +11,10 @@ module.exports = (app) => {
   // In each of the below cases the user is shown an HTML page of content
 
   app.get('/notes', (req, res) => {
-    res.sendFile(path.join(__dirname, '../public/notes.html'));
+    res.sendFile(path.join(__dirname, '../notes.html'));
   });
 
   app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, '../public/index.html'));
+    res.sendFile(path.join(__dirname, '../index.html'));
   });
 }; 
