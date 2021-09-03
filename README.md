@@ -40,7 +40,7 @@ This app allows the user to enter a title and text and save it so it could be re
 ## Usage
 To use the repo all that is needed to do is click on the link located in the read.me and be directed to the github.io page where the app is available to be used
 
-[Link to Note-Taker](https://miguell0706.github.io/Note-Taker/)
+[Link to Note-Taker](https://note-takermiguellozano.herokuapp.com/)
 
 ## Installation
 npm i
